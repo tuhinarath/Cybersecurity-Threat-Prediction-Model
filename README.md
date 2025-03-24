@@ -11,13 +11,16 @@ This project is an **Intrusion Detection System (IDS)** that classifies network 
 ## Installation
 Run the following to install dependencies:
 
+```bash
 pip install pandas scikit-learn numpy
+```
 
 ## Usage
 Run the script:
 
+```bash
 python ids_model.py
-
+```
 
 ## Next Steps
 - Improve model with real datasets.
